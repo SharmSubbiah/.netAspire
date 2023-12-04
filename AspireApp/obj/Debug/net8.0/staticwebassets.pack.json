@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\SharmilaSubbiah\\source\\repos\\.netAspire\\AspireApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AspireApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AspireApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\SharmilaSubbiah\\source\\repos\\.netAspire\\AspireApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\SharmilaSubbiah\\source\\repos\\.netAspire\\AspireApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SharmilaSubbiah\\source\\repos\\.netAspire\\AspireApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SharmilaSubbiah\\source\\repos\\.netAspire\\AspireApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AspireApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AspireApp.props",
+      "PackagePath": "build\\AspireApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AspireApp.props",
+      "PackagePath": "buildMultiTargeting\\AspireApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AspireApp.props",
+      "PackagePath": "buildTransitive\\AspireApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
