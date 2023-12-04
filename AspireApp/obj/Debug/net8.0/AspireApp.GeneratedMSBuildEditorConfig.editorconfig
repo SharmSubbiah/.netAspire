@@ -9,13 +9,13 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AspireApp
 build_property.RootNamespace = AspireApp
-build_property.ProjectDir = C:\Users\SharmilaSubbiah\Source\Repos\.netAspire\AspireApp\
+build_property.ProjectDir = C:\Users\SharmilaSubbiah\source\repos\.netAspire\AspireApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\SharmilaSubbiah\Source\Repos\.netAspire\AspireApp
+build_property.MSBuildProjectDirectory = C:\Users\SharmilaSubbiah\source\repos\.netAspire\AspireApp
 build_property._RazorSourceGeneratorDebug = 
 
 [C:/Users/SharmilaSubbiah/source/repos/.netAspire/AspireApp/Components/App.razor]

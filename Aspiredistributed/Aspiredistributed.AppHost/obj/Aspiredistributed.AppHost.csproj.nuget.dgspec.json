@@ -33,9 +33,6 @@
             "projectReferences": {
               "C:\\Users\\SharmilaSubbiah\\source\\repos\\.netAspire\\Aspiredistributed\\Aspiredistributed.ServiceDefaults\\Aspiredistributed.ServiceDefaults.csproj": {
                 "projectPath": "C:\\Users\\SharmilaSubbiah\\source\\repos\\.netAspire\\Aspiredistributed\\Aspiredistributed.ServiceDefaults\\Aspiredistributed.ServiceDefaults.csproj"
-              },
-              "C:\\Users\\SharmilaSubbiah\\source\\repos\\.netAspire\\Aspire\\AspireAPI.csproj": {
-                "projectPath": "C:\\Users\\SharmilaSubbiah\\source\\repos\\.netAspire\\Aspire\\AspireAPI.csproj"
               }
             }
           }
@@ -107,9 +104,6 @@
             "projectReferences": {
               "C:\\Users\\SharmilaSubbiah\\source\\repos\\.netAspire\\AspireApp\\AspireApp.csproj": {
                 "projectPath": "C:\\Users\\SharmilaSubbiah\\source\\repos\\.netAspire\\AspireApp\\AspireApp.csproj"
-              },
-              "C:\\Users\\SharmilaSubbiah\\source\\repos\\.netAspire\\Aspire\\AspireAPI.csproj": {
-                "projectPath": "C:\\Users\\SharmilaSubbiah\\source\\repos\\.netAspire\\Aspire\\AspireAPI.csproj"
               }
             }
           }
@@ -219,77 +213,6 @@
             "OpenTelemetry.Instrumentation.Runtime": {
               "target": "Package",
               "version": "[1.5.1, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\SharmilaSubbiah\\source\\repos\\.netAspire\\Aspire\\AspireAPI.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\SharmilaSubbiah\\source\\repos\\.netAspire\\Aspire\\AspireAPI.csproj",
-        "projectName": "AspireAPI",
-        "projectPath": "C:\\Users\\SharmilaSubbiah\\source\\repos\\.netAspire\\Aspire\\AspireAPI.csproj",
-        "packagesPath": "C:\\Users\\SharmilaSubbiah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SharmilaSubbiah\\source\\repos\\.netAspire\\Aspire\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\SharmilaSubbiah\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://feed.sdkbin.com/auth/6e053353-7593-4bb4-b0a7-dce3bc765109/youlend-phobos/v3/index.json": {},
-          "https://youlend.pkgs.visualstudio.com/_packaging/Youlend/nuget/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Users\\SharmilaSubbiah\\source\\repos\\.netAspire\\Aspiredistributed\\Aspiredistributed.ServiceDefaults\\Aspiredistributed.ServiceDefaults.csproj": {
-                "projectPath": "C:\\Users\\SharmilaSubbiah\\source\\repos\\.netAspire\\Aspiredistributed\\Aspiredistributed.ServiceDefaults\\Aspiredistributed.ServiceDefaults.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.4.0, )"
             }
           },
           "imports": [

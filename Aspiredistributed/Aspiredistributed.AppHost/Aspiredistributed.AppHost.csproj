@@ -14,7 +14,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\AspireApp\AspireApp.csproj" />
-    <ProjectReference Include="..\..\Aspire\AspireAPI.csproj" />
   </ItemGroup>
 
 </Project>
