@@ -1,7 +1,7 @@
 ﻿namespace AspireApp.Components
 {
-    using System.Net.Http;
     using AspireAPI;
+    using System.Net.Http;
 
     public class AspireApiClinet
     {

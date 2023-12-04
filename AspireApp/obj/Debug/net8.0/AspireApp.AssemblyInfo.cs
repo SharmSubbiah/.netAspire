@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspireApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61820abcdb79aef24878af2e50b16be473aa6bc0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspireApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspireApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

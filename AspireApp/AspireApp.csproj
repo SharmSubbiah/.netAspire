@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Aspiredistributed\Aspiredistributed.ServiceDefaults\Aspiredistributed.ServiceDefaults.csproj" />
+    <ProjectReference Include="..\Aspire\AspireAPI.csproj" />
   </ItemGroup>
 
 </Project>

@@ -9,7 +9,6 @@
       "Aspiredistributed.AppHost/1.0.0": {
         "dependencies": {
           "Aspire.Hosting": "8.0.0-preview.1.23557.2",
-          "AspireAPI": "1.0.0",
           "AspireApp": "1.0.0"
         },
         "runtime": {
